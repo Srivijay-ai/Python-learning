@@ -14,7 +14,7 @@ Read the hints provided by the game
 Continue playing until you guess the correct number! 
 
 HOW TO RUN:-
-Install Python in your PC (obviously 😅)
+Install Python in your PC 
 Download the file: number_guessing_game.py
 Open a terminal in the folder where you saved the file
 Run this command:
